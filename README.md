@@ -22,3 +22,8 @@ RFID based remote control for LMS based on Arduino
   - MOSI -> MOSI
   - 3.3V -> VCC
   - GND -> GND
+
+# Required libraries
+- WifiNINA - https://www.arduino.cc/reference/en/libraries/wifinina/
+- MFRC522 - https://www.arduino.cc/reference/en/libraries/mfrc522/
+- NoDelay - https://www.arduino.cc/reference/en/libraries/nodelay/
